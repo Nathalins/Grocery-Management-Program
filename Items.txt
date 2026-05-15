@@ -1,0 +1,4 @@
+Chips, 3
+Lipstick, 12
+Shampoo, 8
+Milk, 5
